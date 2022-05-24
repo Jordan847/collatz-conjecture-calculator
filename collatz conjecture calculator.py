@@ -24,5 +24,4 @@ while True:
         print(f"\nit took {amountofnumbers} steps to reach 1")
         highestnumber = max(highestnumber)
         highestnumber = '{:,}'.format(highestnumber)
-        print(f"{highestnumber} was the highest number")
-        
+        print(f"{highestnumber} was the highest number"
